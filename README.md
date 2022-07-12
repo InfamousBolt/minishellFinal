@@ -11,7 +11,8 @@ Most of the linux commands were written from scratch using C while using making 
 ## How to use
 1. Download the entire code as ZIP file and extract it in a suitable location. 
 2. Navigate to the project directory and run 'make' command.
-3. Enjoy.
+3. Run the command './minishell'.
+4. Enjoy.
 
 # Screenshots
 ![Screenshot from 2022-07-11 22-50-49](https://user-images.githubusercontent.com/47386839/178417315-b076eb5c-34a9-4f02-9ce8-9df81f8790e3.png)
